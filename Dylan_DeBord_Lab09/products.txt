@@ -1,0 +1,5 @@
+Apple Juice	1.99
+Orange Juice	2.99
+Grape Juice	3.99
+7up	4.99
+Sprite	5.99
